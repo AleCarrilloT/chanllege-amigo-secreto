@@ -1,5 +1,7 @@
 <h1 align="center"> Challenge Amigo Secreto </h1>
+<p align="center">
 <img width="600" height="700" alt="1" src="assets/1.png" />
+</p>
 
 # <h3>🪙 Insignias</h1>
 ![Estado](https://img.shields.io/badge/Estado-Completado-brightgreen) 
@@ -17,18 +19,23 @@
 <h4> Funcionalidades del proyecto</h4>
 
 - `Agregar nombres a la lista`: Permite ingresar nombres de amigos uno por uno a través de un campo de texto y un botón. Cada nombre válido se muestra automáticamente en una lista visible.
+<p align="center">
 <img width="600" height="700" alt="4" src="assets/4.png" />
-
+</p>
   
 - `Validación de entradas`: El programa verifica que el campo no esté vacío y que el nombre no se repita. Si ocurre alguno de estos casos, se muestra una alerta al usuario.
+<p align="center">
 <img width="600" height="700" alt="2" src="assets/2.png" />
 <img width="600" height="700" alt="3" src="assets/3.png" />
 <img width="600" height="700" alt="5" src="assets/5.png" />
-  
+</p>
+
 - `Sorteo aleatorio`: Al hacer clic en el botón “Sortear amigo”, el programa selecciona al azar uno de los nombres ingresados y lo muestra en pantalla con el mensaje:
 "Tu amigo sorteado es: [Nombre]".
 Después de mostrar el resultado, la lista de nombres en pantalla se borra automáticamente para preparar un nuevo sorteo si se desea.
+<p align="center">
 <img width="600" height="700" alt="6" src="assets/6.png" />
+</p>
 
 ![Demostración del proyecto](assets/amigo-secreto.gif)
 
