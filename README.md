@@ -1,5 +1,5 @@
 <h1 align="center"> Challenge Amigo Secreto </h1>
-<img width="2560" height="1440" alt="1" src="https://github.com/user-attachments/assets/99aa08d4-8de1-499f-b56a-eb3b2eb4c0e0" />
+<img width="600" height="700" alt="1" src="assets/1.png" />
 
 # <h3>🪙 Insignias</h1>
 ![Estado](https://img.shields.io/badge/Estado-Completado-brightgreen) 
@@ -17,18 +17,18 @@
 <h4> Funcionalidades del proyecto</h4>
 
 - `Agregar nombres a la lista`: Permite ingresar nombres de amigos uno por uno a través de un campo de texto y un botón. Cada nombre válido se muestra automáticamente en una lista visible.
-<img width="2560" height="1440" alt="4" src="https://github.com/user-attachments/assets/8c3b5949-6953-4b1b-ae44-cae28a0c3cc0" />
+<img width="600" height="700" alt="4" src="assets/4.png" />
 
   
 - `Validación de entradas`: El programa verifica que el campo no esté vacío y que el nombre no se repita. Si ocurre alguno de estos casos, se muestra una alerta al usuario.
-<img width="2560" height="1440" alt="2" src="https://github.com/user-attachments/assets/4d2ce4bf-5c65-4193-9373-cfa9ed46f962" /> 
-<img width="2560" height="1440" alt="3" src="https://github.com/user-attachments/assets/79e2729c-53ee-4058-a014-2042bbaf4a9f" /> 
-<img width="2560" height="1440" alt="5" src="https://github.com/user-attachments/assets/51193496-b7c5-4b88-bf71-1e73db7fb8b4" />
+<img width="600" height="700" alt="2" src="assets/2.png" />
+<img width="600" height="700" alt="3" src="assets/3.png" />
+<img width="600" height="700" alt="5" src="assets/5.png" />
   
 - `Sorteo aleatorio`: Al hacer clic en el botón “Sortear amigo”, el programa selecciona al azar uno de los nombres ingresados y lo muestra en pantalla con el mensaje:
 "Tu amigo sorteado es: [Nombre]".
 Después de mostrar el resultado, la lista de nombres en pantalla se borra automáticamente para preparar un nuevo sorteo si se desea.
-<img width="2560" height="1440" alt="6" src="https://github.com/user-attachments/assets/7e38071f-6f36-4d3b-8641-ab179a0df640" />
+<img width="600" height="700" alt="6" src="assets/6.png" />
 
 ![Demostración del proyecto](assets/amigo-secreto.gif)
 
